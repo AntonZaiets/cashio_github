@@ -1,0 +1,159 @@
+.crm{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 100px;
+  overflow: hidden;
+  &_media{
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 2.5rem;
+    background-color: var(--boxColor);
+    .text_ml{
+      color: var(--text_color);
+    }
+    span{
+      color: #1FA84F;
+    }
+      h1{
+        margin: 30px 30px 0 30px;
+        width: fit-content;
+        color: var(--text_color);
+        z-index: 2;
+        font-size: 45px;
+        height: fit-content;
+      }
+  }
+}
+
+@media (min-width: 576px) {
+  .crm_media {
+    max-width:540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .crm_media {
+    max-width:720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .crm_media {
+    max-width:960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .crm_media {
+    max-width:1140px;
+    h1{
+      font-size: 40px;
+    }
+  }
+}
+
+@media (min-width: 1400px) {
+  .crm_media {
+    max-width:1320px;
+    h1{
+      font-size: 45px;
+    }
+  }
+}
+
+@media(max-width: 1200px){
+  .crm{
+    margin-bottom: 50px;
+  }
+  .crm_media{
+    h1{
+      font-size: 34px !important;
+    }
+  }
+}
+@media(max-width: 992px){
+  .crm_media{
+    h1{
+      font-size: 25px !important;
+    }
+  }
+}
+@media(max-width: 576px){
+  .crm_media{
+    width: 90%;
+  }
+}
+
+.top_collage{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 5%;
+}
+.bottom_collage{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.right_top{
+  display: flex;
+  flex-direction: column;
+  img{
+    width: 95%;
+  }
+}
+.crm_collage{
+  margin: 30px;
+  .collage_bar{
+    width: 13%;
+  }
+  img{
+    margin: 0;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 20px var(--collage_shadow);
+  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.fifth_phone{
+  display: none;
+}
+@media(max-width: 768px){
+  .crm_collage{
+    img{
+      box-shadow: 0 0 15px var(--collage_shadow);
+    }
+  }
+  .collage_bar{
+    display: none;
+  }
+  .right_top{
+    img{
+      width: 100%;
+    }
+  }
+  .bottom_collage{
+    flex-direction: column;
+    .fifth{
+      display: none;
+    }
+    .fifth_phone{
+      display: block;
+      margin-top: 5%;
+    }
+    img{
+      width: 100% !important;
+    }
+  }
+}
+@media(max-width: 480px){
+  .crm{
+    margin-bottom: 30px !important;
+  }
+}

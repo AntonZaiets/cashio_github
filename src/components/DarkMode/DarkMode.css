@@ -1,0 +1,43 @@
+
+.dark_mode_label {
+	border: 2px solid #1E8843;
+	width: 40px;
+	height: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 200px;
+	cursor: pointer;
+	transition: 0.3s;
+	padding: 2px;
+	margin-left: 10px;
+	background-color: transparent;
+}
+.dark_mode_input {
+	width: 0;
+	height: 0;
+	visibility: hidden;
+}
+
+.dark_mode_label svg {
+	position: absolute;
+	width: 20px;
+	z-index: 100;
+}
+.dark_mode_label .sun {
+	fill: #FFFFFF;
+	visibility: hidden;
+}
+.dark_mode_label .moon {
+	fill: #404742;
+	visibility: visible;
+}
+.dark_mode_input:checked + .dark_mode_label .sun {
+	fill:  #FFFFFF;
+	visibility: visible;
+}
+.dark_mode_input:checked + .dark_mode_label .moon {
+	fill: #fff;
+	visibility: hidden;
+}
+

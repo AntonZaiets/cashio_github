@@ -1,0 +1,100 @@
+{
+  "english": "English",
+  "Features": "Features",
+  "Why Us": "Why Us",
+  "About Us": "About Us",
+  "Pricing": "Pricing",
+  "Contacts": "Contacts",
+  "Get a free demo": "Get a free demo",
+  "ForWhom": "For Whom",
+  "Questions": "Questions",
+  "Professionals": "A product created by professionals for professionals",
+  "Making": "MAKING",
+  "Money": "MONEY",
+  "Making Money": "BY OPTIMIZING PROCESSES",
+  "Reports & Insights": "Reports & Insights",
+  "Real-Time Stats": "Real-Time Stats",
+  "Confidence": "Confidence",
+  "Tracking & Atribution": " Tracking & Atribution",
+  "Automation": "Automation",
+  "Integrations": "Integrations",
+  "Теch support": "Теch support",
+  "Anti-Fraud Protection": "Anti-Fraud Protection",
+  "Workspaces & Multi-User Access": "Workspaces & Multi-User Access",
+  "Multi-Dimensional Reporting": "Multi-Dimensional Reporting",
+  "Multi-Cost and Payout Tracking": "Multi-Cost and Payout Tracking",
+  "Redirect Methods": "Redirect Methods",
+  "text": {
+    "Reports & Insights text": "From personal experience, we have come to realize that the majority of losses in the sphere come from inattention, inaccurate and untimely analytics. Our goal was to optimize and simplify the analytics process for each division in the company.",
+    "Real-Time Stats text": "Ability to make quality assessments as you need them.Analysis of baer, team, advertiser, geo, offer, statuses, conversions, validity.",
+    "Confidence text": "Your data belongs only to you. The security protocol protects against unauthorized logins and leaks.",
+    "Tracking & Atribution text": "We pursue the principle of losslessness and transparency in traffic flow.",
+    "Automation text": "Many important metrics can be underestimated. There are quite a few such relationships and they are taken into account in our product realization.",
+    "Integrations text": "Easy integration and technical support ensures security, anonymity, and timely fulfillment of requests.",
+    "Теch support text": "Produced not just by a support team, but by a team of professionals.",
+    "Anti-Fraud Protection text": "CRM constantly analyzes requests and filters out all unwanted requests based on your parameters.",
+    "Workspaces & Multi-User Access text": "Our system is an infrastructure solution with a division into roles and a large number of additional reports and metrics.",
+    "Multi-Dimensional Reporting text": "Detailed analytics on each of the team members, products, advertisers, which allows easy and objective decision making on optimizations of any level.",
+    "Multi-Cost and Payout Tracking text": "All possible spend types and payment models are taken into consideration while creating, making the system suitable for all available verticals.",
+    "Redirect Methods text": "Prioritize, allocate, and re-allocate traffic at your personal discretion."
+  },
+  "contacts": {
+    "WE’RE JUST A MESSAGE AWAY": "WE’RE JUST A MESSAGE AWAY",
+    "Contact Us": "CONTACT US",
+    "Reach out to our team": "Reach out to our team",
+    "We’re here to answer your questions and provide assistance": "We’re here to answer your questions and provide assistance"
+  },
+  "questions": {
+    "question1": "What are the payment methods?",
+    "question2": "If I can't pay on time, will I lose my data?",
+    "question3": "What are your advantages compared to competitors?",
+    "question4": "Are there any usage restrictions?"
+  },
+  "answer": {
+    "answer1": "USDT is used for general convenience.",
+    "answer2": "No, you will be given a buffer period, please contact your manager for this.",
+    "answer3": "We have practical experience with the problems faced by arbitration teams and affiliate programs and have solved them using our product.",
+    "answer4": "No. The responsibility for usage is yours."
+  },
+  "heading": {
+    "heading1": "FAQ",
+    "heading2": "FREQUENTLY ASKED QUESTIONS",
+    "heading3": "In fact, the integration of coherent software enables strict control over the achievement of intended estimates."
+  },
+  "anderDigits": {
+    "anderDigits1": "Automated processes",
+    "anderDigits2": "Full financial reports",
+    "anderDigits3": "Live support"
+  },
+  "pricing": {
+    "month1": "1 month ",
+    "month3": "3 month ",
+    "month6": "6 month ",
+    "billed1": "Billed every 1 months ",
+    "billed3": "Billed every 3 months ",
+    "billed6": "Billed every 6 months ",
+    "getStarted": "Get started",
+    "afford": "AFFORDABLE SOLUTION, UNMATCHED VALUE",
+    "plan": "CHOOSE YOUR PLAN",
+    "transparent": "Transparent pricing plans with no surprise fees",
+    "14days": "14 day free trial"
+  },
+  "ForWhomCaps":{
+    "forWhomHead": "FOR WHOM"
+  },
+  "AboutUs": {
+    "slogan": "BY PROFESSIONALS FOR PROFESSIONALS",
+    "us": "ABOUT US",
+    "CRM": "CRM, created by the arbitration team, is a product designed by professionals for professionals. It takes into account all the challenges faced by the media-buying team and affiliate network."
+  },
+  "Collages": {
+    "collageSlogan": "ADAPT, UPGRADE, SUCCEED",
+    "bigCollage": "HOW CAN CASHIO HELP GROWN YOUR BUSINESS?"
+  },
+  "CRM": {
+    "optimize": "Optimize",
+    "non-stop": "non-stop",
+    "check": "Check your profits",
+    "inAMinute": " in a minute"
+  }
+}
